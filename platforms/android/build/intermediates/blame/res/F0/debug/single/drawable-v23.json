@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\eXiLe\\Projects\\NSStyling\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\eXiLe\\Projects\\NSStyling\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\eXiLe\\Projects\\NTGame\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\eXiLe\\Projects\\NTGame\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
