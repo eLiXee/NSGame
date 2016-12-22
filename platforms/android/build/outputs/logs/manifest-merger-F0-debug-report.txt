@@ -2,7 +2,7 @@
 manifest
 ADDED from C:\Users\eXiLe\Projects\NTGame\platforms\android\src\main\AndroidManifest.xml:2:1-43:12
 	package
-		ADDED from C:\Users\eXiLe\Projects\NTGame\platforms\android\src\main\AndroidManifest.xml:3:2-35
+		ADDED from C:\Users\eXiLe\Projects\NTGame\platforms\android\src\main\AndroidManifest.xml:3:2-38
 		INJECTED from C:\Users\eXiLe\Projects\NTGame\platforms\android\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\eXiLe\Projects\NTGame\platforms\android\src\main\AndroidManifest.xml
 	android:versionName

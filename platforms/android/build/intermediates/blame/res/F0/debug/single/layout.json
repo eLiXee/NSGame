@@ -16,12 +16,12 @@
         "source": "C:\\Users\\eXiLe\\Projects\\NSStyling\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "C:\\Users\\eXiLe\\Projects\\NSStyling\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\eXiLe\\Projects\\NSStyling\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
         "merged": "C:\\Users\\eXiLe\\Projects\\NSStyling\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\eXiLe\\Projects\\NSStyling\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\eXiLe\\Projects\\NSStyling\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\eXiLe\\Projects\\NSStyling\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\Users\\eXiLe\\Projects\\NTGame\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_navigation_item_header.xml",

@@ -4,6 +4,7 @@ of which NativeScript renders with a platform-specific iOS or Android native con
 You can find a full list of user interface components you can use in your app at
 https://docs.nativescript.org/ui/components.
 -->
+
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
     <!--
     The StackLayout stacks UI components on the screen—either vertically or horizontally.
@@ -16,15 +17,14 @@ https://docs.nativescript.org/ui/components.
     core theme, such as p-20, btn, h2, and text-center. You can view a full list of the
     class names available for styling your app at https://docs.nativescript.org/ui/theme.
     -->
-   <GridLayout rows="80,80 auto" columns="80,80" horizontalAlignment="center" verticalAlignment="center">
-   
-   <Button  text="Red" value="Red" tap="{{ onTapRed }}" row="0" col="0" style="font-size: 10px; background-color: red;"/>
-   <Button  text="Blue" tap="{{ onTapBlue }}" row="0" col="1" style="font-size: 10px; background-color: blue;"/>
-   <Button  text="Yellow" tap="{{ onTapYellow }}" row="1" col="0" style="font-size: 9px; background-color: yellow;"/>
-   <Button text="Green" tap="{{ onTapGreen }}" row="1" col="2" style="font-size: 10px; background-color: green;"/>
-   <Label text="{{ color }}" row="2" colSpan="2" horizontalAlignment="center"/>
-   <Label text="{{ score }}" row="2" colSpan="2" horizontalAlignment="right"/>
-
-   
+    
+     
+   <GridLayout rows="150,150 auto" columns="150,150" horizontalAlignment="center" verticalAlignment="center">   
+   <Button  class="btn" text="Red" id="red" value="Red" tap="{{ onTapRed }}" row="0" col="0" style="font-size: 10px; background-color: red;"/>
+   <Button  class="btn"  text="Blue" tap="{{ onTapBlue }}" row="0" col="1" style="font-size: 10px; background-color: blue;"/>
+   <Button  class="btn"  text="Yellow" tap="{{ onTapYellow }}" row="1" col="0" style="font-size: 9px; background-color: yellow;"/>
+   <Button class="btn"  text="Green" tap="{{ onTapGreen }}" row="1" col="2" style="font-size: 10px; background-color: green;"/>  
+   <Label text="{{ color }}" id="color"  row="2"   colSpan="2" horizontalAlignment="center"/>
+   <Label text="{{ score }}" id="score"  row="2" colSpan="2" horizontalAlignment="right"/>   
    </GridLayout>
 </Page>

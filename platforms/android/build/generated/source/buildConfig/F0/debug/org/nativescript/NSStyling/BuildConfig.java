@@ -1,11 +1,11 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package org.nativescript.NTGame;
+package org.nativescript.NSStyling;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "org.nativescript.NSStyling";
+  public static final String APPLICATION_ID = "NTGame";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "F0";
   public static final int VERSION_CODE = 1;
